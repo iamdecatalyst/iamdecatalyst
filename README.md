@@ -65,7 +65,7 @@ HEAD -> 2024-present  CEO & Solo Founder @ VYLTH Strategies
 | | |
 |---|---|
 | **Portfolio** | [decatalyst.com](https://decatalyst.com) |
-| **GitHub** | [github.com/Wisyle](https://github.com/Wisyle) |
+| **GitHub** | [github.com/iamdecatalyst](https://github.com/iamdecatalyst) |
 | **X** | [x.com/iamdecatalyst](https://x.com/iamdecatalyst) |
 | **Telegram** | [t.me/iamdecatalyst](https://t.me/iamdecatalyst) |
 | **Instagram** | [instagram.com/iamdecatalyst](https://instagram.com/iamdecatalyst) |
