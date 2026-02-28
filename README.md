@@ -1,71 +1,79 @@
-# 🧩 De Catalyst
+```
+╦ ╔═╗ ╔═╗ ╔═╗ ╔═╗         ╦ ╦ ╦ ╔═╗ ╔╦╗ ╔═╗ ╔╦╗
+║ ╚═╗ ╠═╣ ╠═╣ ║    · E ·  ║║║ ║ ╚═╗  ║║ ║ ║ ║║║
+╩ ╚═╝ ╩ ╩ ╩ ╩ ╚═╝         ╚╩╝ ╩ ╚═╝ ═╩╝ ╚═╝ ╩ ╩
+```
 
-**Isaac Wisdom · he/him**
+```bash
+decatalyst@vylth:~$ whoami
+```
 
-> *My hypothesis is death ain’t shit.*
+**CEO & Solo Founder** — [VYLTH Strategies](https://github.com/targlobal)
+DevOps / Backend / Software Engineer
 
----
-
-## 🧠 About Me
-
-**DevOps | Backend | Software Engineer**
-Currently building scalable systems at [TAR Global Strategies](https://github.com/targlobal) (@targlobal).
-
-**Developer** of [CCMD](https://github.com/wisyle/ccmd/tree/ccmd)
-
-I design automation pipelines, backend infrastructures, and distributed systems that don’t break under pressure. Most of my time goes into refactoring chaos into clean logic and making servers behave like they actually respect their job description.
+> *"My hypothesis is death ain't shit."*
 
 ---
 
-## 🛠 Tech Stack
+### `$ cat /proc/stack`
 
-**Languages:** Python · JavaScript · C++ · Rust · Bash · SQL · HTML/CSS
-**Frameworks:** React, FastAPI, Django, Node.js
-**DevOps:** CI/CD, Docker, Kubernetes, Cloud Architecture, Automation
-
----
-
-## ⚙️ Featured Project
-
-### [🐍 Medusa Framework](https://github.com/targlobal)
-
-A modular backend and trading infrastructure powering TAR Global.
-Designed for raw speed, clean architecture, and system synergy — no fluff, just performance.
+```
+Languages    Go · Python · Rust · C++ · TypeScript · Kotlin · Bash · SQL
+Frameworks   Fiber · FastAPI · React · Node.js · gRPC · Express
+Infra        Docker · PostgreSQL · Redis · Nginx · CI/CD · Linux
+Domains      Fintech · Crypto · Trading Systems · Payments · Security
+```
 
 ---
 
-## 📡 Social Links
+### `$ tree ~/ecosystem/ --dirs-only`
 
-* 🌐 [targlobal.org](https://targlobal.org)
-* 💬 [t.me/iamdecatalyst](https://t.me/iamdecatalyst)
-* 🖤 [Instagram: iamdecatalyst](https://instagram.com/iamdecatalyst)
-* 🐦 [X: @iamdecatalyst](https://x.com/iamdecatalyst)
-* 🧩 [Reddit: u/iamdecatalyst](https://reddit.com/u/iamdecatalyst)
+```
+ecosystem/
+├── CORE        Institutional investment platform — algo trading, DeFi yield, staking
+├── FLOW        Self-custody crypto payment rail & liquidity infrastructure
+├── MEDUSA      Multi-strategy autonomous algorithmic trading engine
+├── NEXUS       SSO & identity management across the VYLTH ecosystem
+├── 大賢者       AI assistant with personality, memory & RPG evolution
+├── FIREANT     Aggressive Linux security daemon with pheromone trust
+├── NORTHSTAR   Intelligence & operations command center
+├── BEACON      Analytics dashboard with dynamic gallery generation
+├── ICARUS      Crypto trading engine & portfolio monitoring
+├── DECTER      Autonomous multiplier trading & multi-broker copying
+├── RAFT        Investment platform with Telegram bot & profit distribution
+├── CCMD        Cross-platform custom command interpreter
+├── FLOW-BOT    Open-source Telegram bot for crypto payments
+└── VLOGGER     System logging & monitoring service
+```
+
+`16+ interconnected systems. One founder. Zero compromises.`
 
 ---
 
-## 💭 Quote
+### `$ git log --oneline career`
 
-> “A man who cannot command himself will always be a slave.”
+```
+HEAD -> 2024-present  CEO & Solo Founder @ VYLTH Strategies
+~1       2023-2024    Founder & Lead Engineer @ TAR Global Strategies
+~2       2021-2023    Software Engineer (Independent)
+```
 
 ---
 
-## 🧩 Current Focus
+### `$ cat /etc/links.conf`
 
-Transforming **TAR Global Strategies** into a **self-sustaining financial empire** — an ecosystem where automation, transparency, and profitability coexist without compromise.
+| | |
+|---|---|
+| **Portfolio** | [decatalyst.com](https://decatalyst.com) |
+| **GitHub** | [github.com/Wisyle](https://github.com/Wisyle) |
+| **X** | [x.com/iamdecatalyst](https://x.com/iamdecatalyst) |
+| **Telegram** | [t.me/iamdecatalyst](https://t.me/iamdecatalyst) |
+| **Instagram** | [instagram.com/iamdecatalyst](https://instagram.com/iamdecatalyst) |
+| **Reddit** | [reddit.com/u/iamdecatalyst](https://reddit.com/u/iamdecatalyst) |
 
+---
 
-<!--
-**Wisyle/wisyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+$ echo $MOTTO
+Ad astra per aspera — through hardship to the stars.
+```
