@@ -8,7 +8,7 @@
 decatalyst@vylth:~$ whoami
 ```
 
-**CEO & Solo Founder** — [VYLTH Strategies](https://github.com/targlobal)
+**CEO & Solo Founder** — [VYLTH Strategies](https://github.com/VYLTH)
 DevOps / Backend / Software Engineer
 
 > *"My hypothesis is death ain't shit."*
