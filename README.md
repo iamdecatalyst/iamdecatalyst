@@ -9,8 +9,7 @@ decatalyst@vylth:~$ whoami
 ```
 
 **CEO & Solo Founder** — [VYLTH Strategies](https://github.com/VYLTH)
-DevOps / Backend / Software Engineer
-
+DevOps / Backend / Software Engineer/ Blockchain Engineer / ML 
 > *"My hypothesis is death ain't shit."*
 
 ---
